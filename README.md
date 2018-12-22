@@ -1,1 +1,1 @@
-# Offer_J
+# lintCode 解题过程
